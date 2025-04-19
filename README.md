@@ -14,7 +14,7 @@ A simple and elegant web application that displays your local time in real-time 
 
 ## 📷 Preview
 
-![BMI Calculator Screenshot](/screenshot.png)
+![BMI Calculator Screenshot](/Screenshot.png)
 
 ## Installation 🛠️
 
