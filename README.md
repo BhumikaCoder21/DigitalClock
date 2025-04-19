@@ -2,7 +2,6 @@
 
 A simple and elegant web application that displays your local time in real-time with a beautiful and responsive design. The app updates every second, showing the current time with a smooth and modern interface.
 
-![Demo Image](https://via.placeholder.com/600x300?text=Your+Local+Time+App+Demo)
 
 ## Features:
 - 🌍 Displays local time with dynamic updates every second
@@ -13,13 +12,9 @@ A simple and elegant web application that displays your local time in real-time 
 
 ---
 
-## Preview:
+## 📷 Preview
 
-You can check out a live demo of the application here:
-
-[Live Demo](https://your-live-demo-link.com)
-
----
+![BMI Calculator Screenshot](/screenshot.png)
 
 ## Installation 🛠️
 
