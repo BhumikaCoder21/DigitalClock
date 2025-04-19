@@ -1,0 +1,47 @@
+
+body {
+    background: rgb(152, 213, 152);
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+.container {
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+#banner h1 {
+    font-size: 36px;
+    margin: 0;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+#clock {
+    font-size: 60px;
+    background-color: rgba(255, 255, 255, 0.1);
+   
+    padding: 30px 50px;
+    border-radius: 15px;
+    margin-top: 20px;
+    font-family: 'Courier New', monospace;
+    letter-spacing: 3px;
+    color: #ffeb3b;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    }
+
+#clock {
+    transition: all 0.3s ease;
+}
